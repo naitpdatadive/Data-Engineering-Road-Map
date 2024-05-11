@@ -68,4 +68,4 @@
 
 [Data Pipelines Pocket Reference: Moving and Processing Data for Analytics](https://www.amazon.co.uk/Data-Pipelines-Pocket-Reference-Processing/dp/1492087831/)
 
-[Download CLOUD DATA ENGINEERING FOR DUMMIES](https://www.snowflake.com/resource/cloud-data-engineering-for-dummies/)
+[Download Cloud data engineering for dummies](https://www.snowflake.com/resource/cloud-data-engineering-for-dummies/)
