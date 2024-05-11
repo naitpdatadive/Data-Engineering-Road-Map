@@ -63,7 +63,9 @@
 [ Spark Fundamentals](https://cognitiveclass.ai/learn/spark/)
 [Big Data Integration and Processing](https://www.coursera.org/learn/big-data-integration-processing)
 
-## Dta engineering books
+## Data engineering books
 [Fundamentals of Data Engineering - Joe Reis](https://www.amazon.co.uk/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302)
 
 [Data Pipelines Pocket Reference: Moving and Processing Data for Analytics](https://www.amazon.co.uk/Data-Pipelines-Pocket-Reference-Processing/dp/1492087831/)
+
+[Download CLOUD DATA ENGINEERING FOR DUMMIES](https://www.snowflake.com/resource/cloud-data-engineering-for-dummies/)
